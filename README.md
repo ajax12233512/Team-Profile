@@ -17,4 +17,4 @@ content of the Team that you are to input. The user will have to enter informati
 Upon adding all the desired members of the team, starting with the manager, an `index.html` file will be created to neatly display all the members.
 
 # Video Demonstration Link
-[ReadMe Demonstration](https://youtu.be/Ni5Bd-Y7YPk)
+[Team Profile Demonstration](https://youtu.be/D4JK9T6ew40)
